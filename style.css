@@ -1,0 +1,7 @@
+h1 {
+  font-size: 15px;
+  color: #ff00ff;
+}
+h1:hover {
+  color: blue;
+}
